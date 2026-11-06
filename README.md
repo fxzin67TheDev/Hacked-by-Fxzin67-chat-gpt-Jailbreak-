@@ -1,108 +1,81 @@
-⚡ HACKED BY FXZIN67
+HACKED BY FXZIN67
 
 ADVANCED PROGRAMMING | SOFTWARE ENGINEERING | REVERSE ENGINEERING
 
-"Version" (https://img.shields.io/badge/version-1.0-blue)
-"Type" (https://img.shields.io/badge/type-AI%20Prompt-purple)
-"Platform" (https://img.shields.io/badge/platform-ChatGPT-green)
-"License" (https://img.shields.io/badge/license-MIT-orange)
-
 «NO LIMITS. JUST CODE.»
 
-🚀 About the Project
+🚀 About
 
-HACKED BY FXZIN67 is a custom AI assistant persona designed to transform the way developers interact with artificial intelligence.
+HACKED BY FXZIN67 is a custom AI assistant prompt designed for advanced programming, software engineering, debugging, code optimization and authorized reverse engineering.
 
-Its purpose is to encourage advanced technical assistance, professional software development, efficient debugging and complete programming solutions.
+The project aims to provide a professional, technical and results-oriented programming assistant experience.
 
-The prompt configures an assistant focused on technical precision, maintainable architecture and practical results.
+🔥 Features
 
-🔥 Main Features
-
-- Advanced programming assistance.
-- Software architecture and engineering.
-- Debugging and error analysis.
-- Code optimization and refactoring.
-- Authorized reverse engineering.
-- Security auditing.
-- API and database development.
-- Complete project development.
-- Technical documentation.
-- Multi-language programming support.
+- Advanced programming assistance
+- Complete software development
+- Professional code architecture
+- Advanced debugging
+- Code optimization and refactoring
+- Authorized reverse engineering
+- Security auditing
+- API development
+- Database engineering
+- Technical documentation
 
 💻 Supported Languages
 
-- Python
-- JavaScript
-- TypeScript
-- C
-- C++
-- C#
-- Java
-- Kotlin
-- Swift
-- Rust
-- Go
-- PHP
-- SQL
-- HTML
-- CSS
-- XML
-- BrightScript
-- GDScript
+Python, JavaScript, TypeScript, C, C++, C#, Java, Kotlin, Swift, Rust, Go, PHP, SQL, HTML, CSS, XML, BrightScript and GDScript.
 
-⌨️ Command System
+⌨️ Commands
 
-Command| Description
+Command| Function
 "/create"| Generate advanced code
 "/build"| Develop complete projects
-"/debug"| Identify and fix errors
-"/explain"| Explain code
-"/optimize"| Optimize performance
+"/debug"| Find and fix errors
+"/explain"| Explain source code
+"/optimize"| Improve performance
 "/convert"| Convert programming languages
 "/reverse"| Authorized reverse engineering
 "/audit"| Security auditing
-"/help"| Display available commands
+"/help"| Display commands
 
 ⚙️ Installation
 
-1. Open ChatGPT or another compatible AI assistant.
-2. Copy the prompt from this repository.
+1. Download or copy "hackedbyfxzin67.txt".
+2. Open ChatGPT.
 3. Start a new conversation.
 4. Paste the complete prompt.
-5. Start using the customized programming assistant.
+5. Start using your customized assistant.
 
-Important: The prompt customizes assistant behavior. It does not modify model weights, grant privileged access, bypass platform security or unlock restricted capabilities.
+🎯 Philosophy
 
-🎯 Project Goals
-
-- Encourage professional programming practices.
-- Improve code quality.
-- Reduce development time.
-- Support complex software projects.
-- Promote maintainable and scalable solutions.
+- Technical accuracy.
+- Professional development.
+- Complete solutions.
+- Maintainable architecture.
+- Performance optimization.
+- Efficient problem-solving.
 
 🛡️ Disclaimer
 
 This is an independent community-created prompt.
 
-It is not an official OpenAI product and is not affiliated with, endorsed by, or sponsored by OpenAI.
+It is not affiliated with or endorsed by OpenAI.
 
-All platform policies and security restrictions remain applicable.
+It does not unlock privileged access, modify model weights or bypass platform security restrictions.
 
 📜 License
 
-Released under the MIT License.
-
-See the "LICENSE" file for details.
-
----
+MIT License.
 
 👨‍💻 Author
 
 FXZIN67
 
 Advanced Programming | Software Engineering | Reverse Engineering
+
+---
 
 HACKED BY FXZIN67
 
